@@ -18,4 +18,4 @@ Email: kksankar (at) ucdavis (dot) edu
 
 ![image](quantum_2x.png){: width="350" }
 
-(Source: [XKCD 1861](https://xkcd.com/1861/))
+(Source: [xkcd 1861](https://xkcd.com/1861/))
