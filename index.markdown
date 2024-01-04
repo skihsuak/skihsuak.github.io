@@ -12,7 +12,7 @@ Discussions: 6:10-7pm on Mondays in Variable Young Hall 184
 
 My Office Hours: 2-4pm on Thursdays in Kemper 55
 
-Email: kksankar (at) ucdavis (dot) edu :)
+Email: kksankar (at) ucdavis (dot) edu 
 
 [Feedback Form (Anonymous)](https://google.com)
 
